@@ -3,7 +3,9 @@
 
 ## 🌟 mencionaré  una pequeña descripción de mi Gracias ✨✨
 
+# Mi Apodo es Mangara nombre Alhena, estiy aprendiendo a usar está página, cómo Javascript, y otras cosas que poco a poco voy a integrar. Esperó llevarme bien con todo y todas y se de su ayuda. Gracias 
 
+[![giphy.gif](https://i.postimg.cc/3rp33rv4/giphy.gif)](https://postimg.cc/s1VkcrKs)
 
 <!--
 **Atsushi321/Atsushi321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
