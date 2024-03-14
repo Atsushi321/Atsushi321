@@ -5,6 +5,8 @@
 
 # Mi Apodo es Mangara nombre Alhena, estiy aprendiendo a usar está página, cómo Javascript, y otras cosas que poco a poco voy a integrar. Esperó llevarme bien con todo y todas y se de su ayuda. Gracias 
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 [![giphy.gif](https://i.postimg.cc/3rp33rv4/giphy.gif)](https://postimg.cc/s1VkcrKs)
 
 <!--
