@@ -1,7 +1,7 @@
 # ☔ Mucho Gusto a todos y todas ☔
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🌟Dare una pequeña descripción de mi Gracias ✨✨
+## 🌟 mencionaré  una pequeña descripción de mi Gracias ✨✨
 
 <!--
 **Atsushi321/Atsushi321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
